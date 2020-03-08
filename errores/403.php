@@ -1,0 +1,5 @@
+<h1>
+    
+    No tiene permisos para acceder a esta pagina.
+    
+</h1>
