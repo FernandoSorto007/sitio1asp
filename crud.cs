@@ -14,7 +14,7 @@ namespace ventas
         //declaracion de variables para crear la conexion a la base de datos y la creacion 
         //de el CRUD.
 
-        SqlConnection con = new SqlConnection("Data Source=192.168.0.5;Initial Catalog=colegio; User ID=sa; Password = fer123; Application Name=notasweb");
+        SqlConnection con = new SqlConnection("Data Source=192.168.43.122;Initial Catalog=colegio; User ID=fer; Password = fer123; Application Name=notasweb");
         private SqlCommandBuilder cmb;
         public DataSet ds = new DataSet();
         public SqlDataAdapter da;
